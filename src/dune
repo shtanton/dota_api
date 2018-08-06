@@ -1,0 +1,3 @@
+(executable
+	(name main)
+	(libraries graphql-lwt lwt caqti caqti-lwt caqti-driver-mariadb))
